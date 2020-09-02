@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Mohammed Hany\Desktop\Projects\string slicing\string slicing\main.c(18,21): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\Mohammed Hany\Desktop\Projects\string slicing\string slicing\main.c(34): warning C4172: returning address of local variable or temporary: st
+  string slicing.vcxproj -> C:\Users\Mohammed Hany\Desktop\Projects\string slicing\Debug\string slicing.exe
